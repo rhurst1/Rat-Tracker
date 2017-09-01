@@ -31,7 +31,7 @@ public class Person4 {
      */
     private String calc(String input) {
       for (int i = 0; i < input.length(); i++) {
-        //WORK IN PROFRESS
+        //STILL WORKING
       }
       return null;
     }
