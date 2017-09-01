@@ -30,7 +30,9 @@ public class Person4 {
      * @return the modified string
      */
     private String calc(String input) {
-      //Person 4 put your implementation here
+      for (int i = 0; i < input.length(); i++) {
+        //WORK IN PROFRESS
+      }
       return null;
     }
     
